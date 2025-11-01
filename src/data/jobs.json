@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "company": "TechCorp",
+    "location": "Pune",
+    "salary": 60000,
+    "datePosted": "2025-10-15"
+  },
+  {
+    "id": 2,
+    "title": "Backend Engineer",
+    "company": "CodeVerse",
+    "location": "Mumbai",
+    "salary": 75000,
+    "datePosted": "2025-10-20"
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Developer",
+    "company": "InnovateX",
+    "location": "Bangalore",
+    "salary": 90000,
+    "datePosted": "2025-09-25"
+  },
+  {
+    "id": 4,
+    "title": "UI/UX Designer",
+    "company": "PixelWorks",
+    "location": "Hyderabad",
+    "salary": 55000,
+    "datePosted": "2025-10-10"
+  },
+  {
+    "id": 5,
+    "title": "React Developer",
+    "company": "DevStudio",
+    "location": "Delhi",
+    "salary": 65000,
+    "datePosted": "2025-09-30"
+  },
+  {
+    "id": 6,
+    "title": "Node.js Engineer",
+    "company": "Webify",
+    "location": "Chennai",
+    "salary": 78000,
+    "datePosted": "2025-10-12"
+  },
+  {
+    "id": 7,
+    "title": "Software Tester",
+    "company": "TestLab",
+    "location": "Pune",
+    "salary": 50000,
+    "datePosted": "2025-10-08"
+  },
+  {
+    "id": 8,
+    "title": "DevOps Engineer",
+    "company": "CloudNet",
+    "location": "Bangalore",
+    "salary": 95000,
+    "datePosted": "2025-10-18"
+  },
+  {
+    "id": 9,
+    "title": "Mobile App Developer",
+    "company": "Appify",
+    "location": "Mumbai",
+    "salary": 85000,
+    "datePosted": "2025-10-21"
+  },
+  {
+    "id": 10,
+    "title": "Python Developer",
+    "company": "DataMinds",
+    "location": "Hyderabad",
+    "salary": 82000,
+    "datePosted": "2025-09-28"
+  },
+  {
+    "id": 11,
+    "title": "AI Engineer",
+    "company": "NeuroTech",
+    "location": "Bangalore",
+    "salary": 120000,
+    "datePosted": "2025-10-19"
+  },
+  {
+    "id": 12,
+    "title": "Machine Learning Intern",
+    "company": "DataSpark",
+    "location": "Pune",
+    "salary": 30000,
+    "datePosted": "2025-10-14"
+  },
+  {
+    "id": 13,
+    "title": "Frontend Intern",
+    "company": "Designify",
+    "location": "Chennai",
+    "salary": 25000,
+    "datePosted": "2025-10-05"
+  },
+  {
+    "id": 14,
+    "title": "Cloud Architect",
+    "company": "SkyWorks",
+    "location": "Delhi",
+    "salary": 115000,
+    "datePosted": "2025-09-26"
+  },
+  {
+    "id": 15,
+    "title": "System Administrator",
+    "company": "InfraTech",
+    "location": "Hyderabad",
+    "salary": 70000,
+    "datePosted": "2025-10-11"
+  },
+  {
+    "id": 16,
+    "title": "Product Manager",
+    "company": "VisionSoft",
+    "location": "Bangalore",
+    "salary": 130000,
+    "datePosted": "2025-10-22"
+  },
+  {
+    "id": 17,
+    "title": "Business Analyst",
+    "company": "InsightCo",
+    "location": "Mumbai",
+    "salary": 85000,
+    "datePosted": "2025-10-16"
+  },
+  {
+    "id": 18,
+    "title": "QA Automation Engineer",
+    "company": "AutoTest",
+    "location": "Pune",
+    "salary": 72000,
+    "datePosted": "2025-10-09"
+  },
+  {
+    "id": 19,
+    "title": "Angular Developer",
+    "company": "WebWizards",
+    "location": "Delhi",
+    "salary": 68000,
+    "datePosted": "2025-09-29"
+  },
+  {
+    "id": 20,
+    "title": "iOS Developer",
+    "company": "AppWorld",
+    "location": "Chennai",
+    "salary": 95000,
+    "datePosted": "2025-10-20"
+  },
+  {
+    "id": 21,
+    "title": "Android Developer",
+    "company": "MobileNest",
+    "location": "Bangalore",
+    "salary": 88000,
+    "datePosted": "2025-10-03"
+  },
+  {
+    "id": 22,
+    "title": "Data Analyst",
+    "company": "InfoLens",
+    "location": "Hyderabad",
+    "salary": 78000,
+    "datePosted": "2025-10-07"
+  },
+  {
+    "id": 23,
+    "title": "Cybersecurity Engineer",
+    "company": "SecureNow",
+    "location": "Delhi",
+    "salary": 110000,
+    "datePosted": "2025-10-18"
+  },
+  {
+    "id": 24,
+    "title": "Technical Writer",
+    "company": "DocuTech",
+    "location": "Pune",
+    "salary": 50000,
+    "datePosted": "2025-09-27"
+  },
+  {
+    "id": 25,
+    "title": "Database Administrator",
+    "company": "DataSecure",
+    "location": "Mumbai",
+    "salary": 90000,
+    "datePosted": "2025-10-04"
+  },
+  {
+    "id": 26,
+    "title": "AI Researcher",
+    "company": "DeepThink",
+    "location": "Bangalore",
+    "salary": 125000,
+    "datePosted": "2025-10-21"
+  },
+  {
+    "id": 27,
+    "title": "Web Designer",
+    "company": "CreativeLabs",
+    "location": "Chennai",
+    "salary": 58000,
+    "datePosted": "2025-10-02"
+  },
+  {
+    "id": 28,
+    "title": "Blockchain Developer",
+    "company": "CryptoWave",
+    "location": "Delhi",
+    "salary": 140000,
+    "datePosted": "2025-10-25"
+  },
+  {
+    "id": 29,
+    "title": "Software Engineer Trainee",
+    "company": "TechVerse",
+    "location": "Pune",
+    "salary": 40000,
+    "datePosted": "2025-10-06"
+  },
+  {
+    "id": 30,
+    "title": "Data Engineer",
+    "company": "InfoStream",
+    "location": "Hyderabad",
+    "salary": 95000,
+    "datePosted": "2025-10-19"
+  },
+  {
+    "id": 31,
+    "title": "Project Coordinator",
+    "company": "AgileWorks",
+    "location": "Mumbai",
+    "salary": 70000,
+    "datePosted": "2025-10-13"
+  },
+  {
+    "id": 32,
+    "title": "Game Developer",
+    "company": "PlayTech",
+    "location": "Bangalore",
+    "salary": 85000,
+    "datePosted": "2025-10-24"
+  },
+  {
+    "id": 33,
+    "title": "Network Engineer",
+    "company": "NetBridge",
+    "location": "Delhi",
+    "salary": 78000,
+    "datePosted": "2025-09-30"
+  }
+]
